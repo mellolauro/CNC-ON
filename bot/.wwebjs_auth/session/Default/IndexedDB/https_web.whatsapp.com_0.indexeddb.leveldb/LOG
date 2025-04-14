@@ -1,0 +1,4 @@
+2025/04/11-16:26:33.648 4f04 Reusing MANIFEST C:\Lauro\Pessoal\CNC-ON\bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/11-16:26:33.649 4f04 Recovering log #75
+2025/04/11-16:26:33.684 4f04 Reusing old log C:\Lauro\Pessoal\CNC-ON\bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000075.log 
+2025/04/11-16:26:47.305 40b0 Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
